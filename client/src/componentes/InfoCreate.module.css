@@ -1,0 +1,10 @@
+
+.botonback{
+    position:relative;
+    text-align: right;
+    margin-right: 25px;
+}
+
+.formulario{
+    position: absolute;
+}
