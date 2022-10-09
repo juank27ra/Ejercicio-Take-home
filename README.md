@@ -1,5 +1,9 @@
 Ejercicio take home
 
+Instruccion: 
+El proyecto contiene dos carpetas: api, donde está todo el back y base de datos y client, donde está el front.
+Para correr el proyecto de manera local npm install y npm start
+
 Realiza las siguientes consignas en la medida de lo posible. Lo que queremos evaluar es la calidad y limpieza del código así como la compresión a las indicaciones. El resultado correcto es solo parte de lo que nos interesa.
 
 1 - Backend
