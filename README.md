@@ -43,6 +43,3 @@ output: = Salida
 2 - Frontend
     Realiza un front sencillo que permita cargar este archivo y ver las órdenes creadas anteriormente.
 
-Detalles de la entrega
-1.	Sube tu código a un repo github.
-2.	Compárteme tu repo y un video demo 
